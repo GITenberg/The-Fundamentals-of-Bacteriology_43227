@@ -1,0 +1,26 @@
+_repo: The-Fundamentals-of-Bacteriology_43227
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43227-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morrey, Charles Bradfield
+    birthdate: 1869
+    gutenberg_agent_id: '42080'
+    url: http://www.gutenberg.org/2009/agents/42080
+description: ''
+gutenberg_issued: '2013-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43227'
+  lccn: '21002955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bacteriology'
+- !lcc 'QR'
+title: The Fundamentals of Bacteriology
+url: http://www.gutenberg.org/ebooks/43227
